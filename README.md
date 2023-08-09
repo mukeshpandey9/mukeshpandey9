@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/mukesh-pandey-335434255/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Mukesh Pandey" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaamdeen" alt="flaamdeen" /></a> </p>
+
 
 - 🔭 I’m currently working on **Backend API**
 
