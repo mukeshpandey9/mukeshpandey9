@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Backend API**
+- 🔭 I’m currently learning **Backend API**
 
 - 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
