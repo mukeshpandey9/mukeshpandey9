@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on building **Movix App**
+- 🔭 I’m currently working on building <strong bg-color="yellow" >**Movix App**</strong>
 
 - 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
