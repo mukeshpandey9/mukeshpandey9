@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on building ***<mark >Movix App</mark>***
 
+- 🔭 I’m currently learning ***<mark >React and Rest APIs</mark>***
+
 - 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
 - 💬 Ask me about **MERN , github**
