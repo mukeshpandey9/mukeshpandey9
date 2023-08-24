@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on building ***<mark >Movix App</mark>***
+- 🔭 I’m currently building a ***<mark >Movix App</mark>***
 
 - 🔭 I’m currently learning ***<mark >React and Rest APIs</mark>***
 
