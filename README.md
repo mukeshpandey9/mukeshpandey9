@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently building a ***<mark >Movix App</mark>***
+- 🔭 I’m currently building a ***<mark >Movix App and learning Linked List</mark>***
 
 - 🔭 I’m currently learning ***<mark >React and Rest APIs</mark>***
 
