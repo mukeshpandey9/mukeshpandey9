@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently building a ***<mark >Movix App and learning Linked List</mark>***
+- 🔭 I’m currently building a ***<mark >My Portfolio</mark>***
 
-- 🔭 I’m currently learning ***<mark >React and Rest APIs</mark>***
+- 🔭 I’m currently learning ***<mark >Backend (Node js) and Linked List (C++)</mark>***
 
 - 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
