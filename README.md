@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently building a ***<mark >My Portfolio</mark>***
+- 🔭 I’m currently building ***<mark >My Portfolio</mark>***
 
 - 🔭 I’m currently learning ***<mark >Backend (Node js) and Linked List (C++)</mark>***
 
