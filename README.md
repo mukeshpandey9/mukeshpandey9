@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently building ***<mark >My Portfolio</mark>***
 
-- 🔭 I’m currently learning ***<mark >Backend (Node js) and Linked List (C++)</mark>***
+- 🔭 I’m currently learning ***<mark >Linked List (C++)</mark>***
 
 - 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
-- 💬 Ask me about **MERN , github**
+- 💬 Ask me about **MERN,c++** , github**
 
 - 📫 How to reach me **mukeshpandit20192004@gmail.com**
 
