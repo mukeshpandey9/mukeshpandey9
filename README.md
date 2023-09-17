@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently learning ***<mark >Linked List (C++)</mark>***
 
-- 🌱 I’m currently learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
+- 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
 - 💬 Ask me about **MERN, c++*, github**
 
