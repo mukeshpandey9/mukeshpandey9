@@ -16,7 +16,7 @@
 
 - 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
-- 💬 Ask me about **MERN, c++*, github**
+- 💬 Ask me about **MERN, c++, github**
 
 - 📫 How to reach me **mukeshpandit20192004@gmail.com**
 
