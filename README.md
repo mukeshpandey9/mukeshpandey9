@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently building ***<mark >Online Code Compiler</mark>***
 
-- 🔭 I’m currently learning ***<mark >Linked List (C++)</mark>***
+- 🔭 I’m currently learning ***<mark >Queues (C++)</mark>***
 
 - 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
 
