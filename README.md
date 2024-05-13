@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently building ***<mark >Nothing</mark>***
+- 🔭 I’m currently exploring ***<mark >NextJs</mark>***
 
-- 🔭 I’m currently learning ***<mark >Queues (C++)</mark>***
+- 🔭 I’m currently learning ***<mark >Trees 🌳</mark>***
 
-- 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT using MERN stack**
+- 🌱 I’m learning **C++ with DSA and FULL STACK WEB DEVELOPMENT**
 
 - 💬 Ask me about **MERN, c++, github**
 
